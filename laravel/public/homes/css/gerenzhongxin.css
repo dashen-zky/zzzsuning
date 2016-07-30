@@ -1,0 +1,46 @@
+@charset "utf-8";
+/*个人中心CSS*/ 
+.index{
+	width:989px;
+	height:600px;
+	border:2px solid red;
+	margin:0 auto;
+	margin-top:0px;
+}
+.index-left{
+	float:left;
+	width:250px;
+	height:600px;
+	border:1px solid red;
+}
+.d1{
+	width:250px;
+	height:100px;
+	background:#B61D1D;
+}
+.Dingdan{
+	width:250px;
+	height:50px;
+}
+.update{
+	width:250px;
+	height:50px;
+}
+.mibao{
+	width:250px;
+	height:50px;
+}
+.update-pwd{
+	width:250px;
+	height:50px;
+}
+.zhaohui{
+	width:250px;
+	height:50px;
+}
+.index-right{
+	float:right;
+	width:737px;
+	height:600px;
+	background:#B61D1D;
+}

@@ -1,0 +1,136 @@
+/*************logo****************/
+#logo{
+  width:990px;
+  height:60px;
+  margin:0 auto;
+  
+}
+/************logo******************/
+
+/***********************/
+#denglu{
+  width:100%;
+  height:475px;
+  background:url('../images/2.jpg');
+}
+#denglu > div:nth-child(1){
+  width:990px;
+  margin:0 auto;
+}
+#denglu > div:nth-child(1) > form:nth-child(1){
+  float:right;
+  width:360px;
+  background-color:white;
+  margin-top:50px;
+}
+#denglu > div:nth-child(1) > form:nth-child(1) > div:nth-child(1){
+  Width:306px;
+  height:27px;
+  margin-top:20px;
+}
+#denglu > div:nth-child(1) > form:nth-child(1) > div:nth-child(1) > span:nth-child(1){
+  font-size:20px;
+  color:#666;
+  height:27px;
+  line-height: 27px;
+  margin-left: 20px;
+}
+#denglu > div:nth-child(1) > form:nth-child(1) > div:nth-child(1) > a:nth-child(2){
+  float:right;
+  height:27px;
+  line-height: 27px;
+  font-size:14px;
+  text-decoration: none;
+  color:red;
+}
+#denglu > div:nth-child(1) > form:nth-child(1) > div:nth-child(2){
+  width:306px;
+  height:26px;
+  margin:0 auto;
+  margin-top:10px;
+  background-color:#FFF6D2;
+  line-height: 26px;
+  font-size:12px;
+  text-align: center;
+  color:#666;
+  border:1px solid #FFE57D;
+}
+.input{
+  width:304px;
+  height:38px;
+  margin:0 auto;
+}
+.input>input{
+  height:38px;
+  width:240px;
+  margin-top:10px;
+  border:1px solid #BDBDBD;
+}
+.input>span{
+  font-size:14px;
+  color:#666;
+}
+#denglu > div:nth-child(1) > form:nth-child(1) > div:nth-child(7) > input:nth-child(1){
+  width:304px;
+  height:33px;
+  background-color: #FFD237;
+  border:0;
+  font-size:20px;
+  color:white;
+  margin:0 auto;
+  display: block;
+  margin-top:10px;
+}
+#denglu > div:nth-child(1) > form:nth-child(1) > div:nth-child(8) > p:nth-child(1){
+  width:306px;
+  height:22px;
+  margin-top:10px;
+  text-indent: 1em;
+  color:#999;
+  font-size:14px;
+}
+#denglu > div:nth-child(1) > form:nth-child(1) > div:nth-child(8) > a{
+  font-size:12px;
+  text-decoration: none;
+  color:#666;
+  margin:15px;
+}
+#denglu > div:nth-child(1) > form:nth-child(1) > div:nth-child(8) > a:hover{
+  color:red;
+}
+#denglu > div:nth-child(1) > form:nth-child(1) > div:nth-child(8) > span{
+  font-size:12px;
+  color:#ccc;
+}
+
+
+
+
+
+
+/************************/
+
+/**************************foot*******************/
+#lianjie{
+  text-align:center;
+  margin-top: 10px;
+  font-size:12px;
+}
+#lianjie>a{
+  text-decoration: none;
+  color:#333;
+}
+#lianjie>a:hover{
+  color:red;
+}
+#lianjie>span{
+  color:#ccc;
+  margin:0 10px;
+}
+#bottom{
+   text-align:center;
+   margin-top: 15px;
+   font-size:12px;
+  color:#666;
+  
+}
